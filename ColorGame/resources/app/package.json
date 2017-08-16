@@ -1,0 +1,14 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "RGB Guessing Game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . colorGame"
+  },
+  "author": "Jeane Carlos",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
+}
